@@ -1,4 +1,4 @@
-#TASK 2
+## TASK 2
 # Login & Signup System using PHP & MySQL
 
 A secure and user-friendly full stack authentication system built with PHP, MySQL, HTML, and CSS.
